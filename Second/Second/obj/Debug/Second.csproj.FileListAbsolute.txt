@@ -1,6 +1,0 @@
-C:\projects\Second\Second\bin\Debug\Second.exe.config
-C:\projects\Second\Second\bin\Debug\Second.exe
-C:\projects\Second\Second\bin\Debug\Second.pdb
-C:\projects\Second\Second\obj\Debug\Second.csprojResolveAssemblyReference.cache
-C:\projects\Second\Second\obj\Debug\Second.exe
-C:\projects\Second\Second\obj\Debug\Second.pdb

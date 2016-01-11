@@ -1,6 +1,0 @@
-C:\projects\First\First\bin\Debug\First.exe.config
-C:\projects\First\First\bin\Debug\First.exe
-C:\projects\First\First\bin\Debug\First.pdb
-C:\projects\First\First\obj\Debug\First.csprojResolveAssemblyReference.cache
-C:\projects\First\First\obj\Debug\First.exe
-C:\projects\First\First\obj\Debug\First.pdb

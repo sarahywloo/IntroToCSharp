@@ -1,6 +1,0 @@
-C:\projects\Contrarian\Contrarian\bin\Debug\Contrarian.exe.config
-C:\projects\Contrarian\Contrarian\bin\Debug\Contrarian.exe
-C:\projects\Contrarian\Contrarian\bin\Debug\Contrarian.pdb
-C:\projects\Contrarian\Contrarian\obj\Debug\Contrarian.csprojResolveAssemblyReference.cache
-C:\projects\Contrarian\Contrarian\obj\Debug\Contrarian.exe
-C:\projects\Contrarian\Contrarian\obj\Debug\Contrarian.pdb

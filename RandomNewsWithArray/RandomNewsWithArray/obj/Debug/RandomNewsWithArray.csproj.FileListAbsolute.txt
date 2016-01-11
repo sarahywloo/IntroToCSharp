@@ -1,6 +1,0 @@
-C:\projects\RandomNewsWithArray\RandomNewsWithArray\bin\Debug\RandomNewsWithArray.exe.config
-C:\projects\RandomNewsWithArray\RandomNewsWithArray\bin\Debug\RandomNewsWithArray.exe
-C:\projects\RandomNewsWithArray\RandomNewsWithArray\bin\Debug\RandomNewsWithArray.pdb
-C:\projects\RandomNewsWithArray\RandomNewsWithArray\obj\Debug\RandomNewsWithArray.csprojResolveAssemblyReference.cache
-C:\projects\RandomNewsWithArray\RandomNewsWithArray\obj\Debug\RandomNewsWithArray.exe
-C:\projects\RandomNewsWithArray\RandomNewsWithArray\obj\Debug\RandomNewsWithArray.pdb

@@ -1,6 +1,0 @@
-C:\projects\Strings\Strings\bin\Debug\Strings.exe.config
-C:\projects\Strings\Strings\bin\Debug\Strings.exe
-C:\projects\Strings\Strings\bin\Debug\Strings.pdb
-C:\projects\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
-C:\projects\Strings\Strings\obj\Debug\Strings.exe
-C:\projects\Strings\Strings\obj\Debug\Strings.pdb
